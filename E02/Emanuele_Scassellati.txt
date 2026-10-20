@@ -1,0 +1,4 @@
+Emanuele Scassellati,
+ codice matricola: 376523,
+emanuele.scassellati@studenti.unipg.it 
+Python 3.12.3
